@@ -1,0 +1,6 @@
+{
+  "name": "Nepali Calendar",
+  "description": "Nepali Calendar with AD-BS Conversion, Tithi, Festivals, and personal notes tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
